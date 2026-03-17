@@ -7,7 +7,7 @@ Dhirubhai Ambani University, Gandhinagar
 
 ## About Me
 
-I'm a second-year ICT student at Dhirubhai Ambani University with a strong interest in backend development, full stack engineering, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow - both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop.
+I'm a second-year ICT student at Dhirubhai Ambani University with a strong interest in backend development, full stack engineering, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow — both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop.
 
 ---
 
@@ -20,6 +20,8 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Tools**
 
