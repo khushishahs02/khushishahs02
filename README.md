@@ -45,6 +45,7 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
 
 - Practicing Data Structures & Algorithms
 - Building backend and full stack projects
+- Learning AL ML Libraries
 - Exploring Machine Learning concepts
 - Open to internship opportunities
 
