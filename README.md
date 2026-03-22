@@ -8,7 +8,6 @@ Dhirubhai Ambani University, Gandhinagar
 
 I'm a second-year ICT student at Dhirubhai Ambani University with a strong interest in backend development, full stack engineering, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow — both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop. Currently I am learning AI /  ML, exploring libraries of python, building ML Models.
 
----
 
 ## Skills
 
@@ -32,7 +31,6 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
 ## GitHub Stats
 
@@ -41,7 +39,7 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushishahs02&theme=default&hide_border=true" height="150"/>
 </p>
 
----
+
 
 ## Currently
 
