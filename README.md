@@ -48,6 +48,7 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
 - Exploring Machine Learning concepts
 - Open to internship opportunities
 
+
 - ![Profile views](https://komarev.com/ghpvc/?username=khushishahs02&color=blue)
 
 
@@ -55,5 +56,5 @@ I'm a second-year ICT student at Dhirubhai Ambani University with a strong inter
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushishahs02)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushishahs.2006@gmail.com)
