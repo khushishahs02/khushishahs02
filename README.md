@@ -6,7 +6,7 @@ Dhirubhai Ambani University, Gandhinagar
 
 ## About Me
 HEY THERE !
-I'm a sophomore ICT CS student at Dhirubhai Ambani University with a strong interest in backend development, full stack engineering, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow — both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop. Currently I am learning AI /  ML, exploring libraries of python, building ML Models.
+I'm a sophomore ICT CS student at Dhirubhai Ambani University with a strong interest in backend development, Data Analysis, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow — both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop. Currently I am learning AI /  ML, exploring libraries of python, building ML Models.
 
 
 ## Skills
