@@ -47,6 +47,7 @@ I'm a sophomore ICT CS student at Dhirubhai Ambani University with a strong inte
 - Building backend and full stack projects
 - Exploring Machine Learning concepts
 - Open to internship opportunities
+- Learning Data Visualization using PowerBI
 
 
 - ![Profile views](https://komarev.com/ghpvc/?username=khushishahs02&color=blue)
