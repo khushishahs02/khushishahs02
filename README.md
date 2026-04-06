@@ -1,4 +1,4 @@
-# Khushi Shah
+# Khushi  Shah
 
 **B.Tech (Honours) ICT with Minor in Computational Science - 2nd Year**
 Dhirubhai Ambani University, Gandhinagar
