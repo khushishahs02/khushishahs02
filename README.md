@@ -41,10 +41,6 @@ I have a strong interest in backend development, Data Analysis, and AI/ML. I enj
 - Learning Data Visualization using PowerBI
 
 
-- ![Profile views](https://komarev.com/ghpvc/?username=khushishahs02&color=blue)
-
-
----
 
 ## Contact
 
