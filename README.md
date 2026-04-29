@@ -32,15 +32,6 @@ I have a strong interest in backend development, Data Analysis, and AI/ML. I enj
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khushishahs02&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushishahs02&theme=default&hide_border=true" height="150"/>
-</p>
-
-
-
 ## Currently
 
 - Practicing Data Structures & Algorithms
