@@ -6,7 +6,7 @@ Dhirubhai Ambani University, Gandhinagar
 
 ## About Me
 HEY THERE !
-I have a strong interest in backend development, Data Analysis, and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow — both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop. Currently I am learning AI /  ML, exploring libraries of python, building ML Models.
+I have a strong interest in Data Analysis and AI/ML. I enjoy building real-world projects and am currently focused on strengthening my fundamentals in Data Structures & Algorithms. I believe in writing clean, well-structured code and take pride in doing things neatly and thoughtfully. I'm constantly exploring new technologies and pushing myself to grow,both through side projects and hands-on learning. I'm actively looking for internship opportunities where I can contribute and continue to develop. Currently I am learning AI /  ML, exploring libraries of python, building ML Models.
 
 
 ## Skills
@@ -15,7 +15,6 @@ I have a strong interest in backend development, Data Analysis, and AI/ML. I enj
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
