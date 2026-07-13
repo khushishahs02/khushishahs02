@@ -53,11 +53,6 @@ I'm focused on Data Analysis and AI/ML, with DSA in C++ as my daily fundamentals
 - **HealthWealth AI (Insurance Cost Prediction)** — Leakage-safe regression pipeline benchmarking 8 algorithms; Gradient Boosting selected (Test R² = 0.8864). Includes SHAP explainability and subgroup fairness validation (R²: 0.852 non-smokers, 0.764 smokers).
 - **Hospital ER Operations Analytics Platform** — 4-page Power BI dashboard on a star-schema model, with a Power Query ETL pipeline processing 9,216 ER records across 19 months and custom DAX measures for wait time, satisfaction, and referral tracking.
 
-## Achievements
-
-- 🎯 99.28 percentile in JEE Mains 2024 (CRL 11,579 among 1M+ candidates)
-- 📊 Microsoft Power BI Certification — Data Visualization with Power BI (Microsoft & Great Learning, April 2026)
-- 💻 200+ DSA & SQL problems solved on LeetCode — 754 contributions across 11 repositories on GitHub
 
 ## Coursework
 
