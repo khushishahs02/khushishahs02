@@ -50,7 +50,6 @@ I'm focused on Data Analysis and AI/ML, with DSA in C++ as my daily fundamentals
 
 ## Featured Projects
 
-- **Fake Review Detection System** — End-to-end pipeline on the YelpChi dataset with VADER sentiment features, leave-one-out leakage prevention, GroupShuffleSplit by reviewer ID, and a co-review network with temporal constraints. ROC-AUC ~0.96. Includes a Streamlit demo and modular feature code.
 - **HealthWealth AI (Insurance Cost Prediction)** — Leakage-safe regression pipeline benchmarking 8 algorithms; Gradient Boosting selected (Test R² = 0.8864). Includes SHAP explainability and subgroup fairness validation (R²: 0.852 non-smokers, 0.764 smokers).
 - **Hospital ER Operations Analytics Platform** — 4-page Power BI dashboard on a star-schema model, with a Power Query ETL pipeline processing 9,216 ER records across 19 months and custom DAX measures for wait time, satisfaction, and referral tracking.
 
